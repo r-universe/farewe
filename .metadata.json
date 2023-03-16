@@ -1,0 +1,14 @@
+[
+  {
+    "package": "invacost",
+    "oncran": true
+  },
+  {
+    "package": "Rarity",
+    "oncran": true
+  },
+  {
+    "package": "virtualspecies",
+    "oncran": true
+  }
+]
