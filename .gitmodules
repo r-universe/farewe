@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "invacost"]
 	path = invacost
 	url = https://github.com/farewe/invacost
-	shallow = true
-	registered = true
 [submodule "Rarity"]
 	path = Rarity
 	url = https://github.com/farewe/rarity
-	shallow = true
-	registered = true
 [submodule "virtualspecies"]
 	path = virtualspecies
 	url = https://github.com/farewe/virtualspecies
-	shallow = true
-	registered = true
