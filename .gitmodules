@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "invacost"]
-	path = invacost
-	url = https://github.com/farewe/invacost
 [submodule "Rarity"]
 	path = Rarity
 	url = https://github.com/farewe/rarity
+[submodule "invacost"]
+	path = invacost
+	url = https://github.com/farewe/invacost
 [submodule "virtualspecies"]
 	path = virtualspecies
 	url = https://github.com/farewe/virtualspecies
